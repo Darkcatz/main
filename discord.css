@@ -1,6 +1,9 @@
-#title{
-    text-align: center;
-    font-family: cursive;
+#body {
+    background-color: #2C2F33;
+
+}
+p{
+    color: white;
 }
 #nb{
     list-style: none;
@@ -20,10 +23,13 @@
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-family: sans-serif;
-    font-weight: normal;
+    
     
 }
 #nbi a:hover{
-    background-color: #737373;
+    background-color: #000000;
+}
+#title{
+    text-align: center;
+    color:white;
 }
