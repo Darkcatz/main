@@ -25,5 +25,10 @@
     
 }
 #nbi a:hover{
-    background-color: #737373;
+    background-color: #000;
+    transition-duration: 1s;
+}
+.discord{
+    float: right;
+    border-width: 10px;
 }
