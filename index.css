@@ -42,7 +42,7 @@
 #DB{
     height: 50px;
     width: 50px;
-    font-size: 35px;
+    font-size: 50px;
     text-align: center;
     color: #7289DA;
     background-color: transparent;
@@ -52,5 +52,8 @@
     
 }
 #DB a:hover{
-    
+    color:#fff;
+}
+#center{
+    text-align: center;
 }
