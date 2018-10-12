@@ -39,4 +39,18 @@
     color: white;
     padding: 5px;
 }
-
+#DB{
+    height: 50px;
+    width: 50px;
+    font-size: 35px;
+    text-align: center;
+    color: #7289DA;
+    background-color: transparent;
+    border-color: transparent;
+    
+    
+    
+}
+#DB a:hover{
+    
+}
